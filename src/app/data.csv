@@ -1,0 +1,55 @@
+Categories,Product name,Description,Mall Final pricing,,University FInal pricing,,Office final pricing,,Calorie (Kcal),Zomato Description
+,,,300 ml,500 ml,300 ml,500 ml,300 ml,500 ml,,
+Refreshers,Mint lemonade,"Mint, Lemon, Sea Salt, Cumin, Honey",99,149,75,99,99,149,120,A refreshing mint with a hint of lemon and a touch of cumin with a drizzle of organic honey
+,Lemon ice tea,"Lemon, Mint, Honey, Tea extract",99,149,75,99,99,149,125,A zesty and cooling infusion of lemon in classic iced tea for a refreshing and tangy beverage
+,Pineapple mojito,"Pineapple, Lemon, Mint, Honey, Black Salt, No soda",149,199,75,110,125,175,170,"Tangy and zesty healthier mojito with a combination of fresh pineapple, lemon, mint, organic honey without the use of soda"
+,Fresh coconut water,,149,,75,,99,,40,"Naturally hydrating and refreshing beverage extracted from young green coconuts, known for its crisp taste and abundant electrolytes"
+,Berry Ice Tea,"Strawberry, Blueberry, Raspberry, Cranberry, Honey, Tea extract, Lemon, Mint",175,225,99,149,149,199,129,"Refreshing and tangy berry-infused iced tea, bursting with natural fruity flavors."
+Shakes and Cold coffee,Strawberry shake (Kids special),"Strawberry, Beetroot, Honey, Low-fat milk, Banana",225,275,149,199,175,225,266,"A childhood memories of shakes that will connect you with delicious strawberry, beetroot and organic honey"
+,Chocolate shake (Kids special),"Cocoa, Dark chocolate, Banana, Honey",225,275,135,175,175,225,599,"A chocolatey delight that will sooth your mood with dark chocolate, coco powder, organic honey with a touch of fresh mint."
+,Banana shake,"Banana, Dates ",175,225,125,160,125,175,230,A power pack banana shake which energize your body with natural sweetness of dates
+,Badam Thandai (Must try),"Low-fat milk, Badam Milk Powder, Honey",149,199,125,160,125,175,219,"Almonds bring the crunch to the party in this cool and creamy concoction, making every sip a celebration for your taste buds"
+,Cold coffee (with dates/honey),"Coffee, Honey/dates, Low-fat milk",175,225,125,160,125,175,202/199,"An earthy and delightful flavours of coffee which is pure and unadulterated, unsweetened and cold coffee lets the natural essence of coffee shine through."
+,Cold coffee (with almond milk),"Coffee, Honey/dates, Almond milk",249,299,175,225,175,225,125,"An earthy and delightful flavours of coffee which is pure and unadulterated, unsweetened and cold coffee lets the natural essence of coffee shine through."
+,Chikkoo banana shake (new),"Banana, Chikoo, Dates",175,225,125,160,149,199,236,A delectable fusion where the sweet embrace of chikoo and the creamy richness of banana create a taste symphony that's simply irresistible
+,Kesar pista shake (new) -> Kesar Dry fruit shake (Must try),"Banana, Dates, Rose petal, Almond, Cashew, Pista, Saffron, Magaj, Poppy seed, Turmeric, Elaichi",199,249,149,175,175,225,294,"A royal blend where saffron whispers sweet nothings to a medley of nuts, creating a sip-worthy masterpiece"
+,Blueberry shake,"Blueberry, Banana, Apple, Beetroot, Honey",299,399,175,225,199,299,189,"A Berrilicious Shake with some blueberry, apple, banana and pumpkin seeds as well"
+Smoothie,Mixed berry,"Strawberry, Blueberry, Raspberry, Cranberry, Dates, Banana",249,299,149,199,199,249,174,"A berrilicious smoothie with a blend of some exotic blueberry, raspberry, cranberry, banana, greek yogurt and some dates"
+,Blueberry fruit punch,"Banana, Pineapple, Blueberry, Dates, Honey, Cinnamon, Guava",249,299,149,199,199,249,197,"A fruitful delight with a combination of blueberry, pineapple, guava, banana, dates, organic honey and some greek yogurt"
+,Mixed fruit smoothie,"Papaya, Apple, Guava, Pineapple, Orange, Mint, Honey, Beetroot",225,275,125,160,175,225,175,"A frutilicious drink with a combination of papaya, apple, guava, pineapple, orange, fresh mint, greek yougurt and organic honey"
+,Pineapple mint smoothie (new) -> Minty pineapple ,"Pineapple, Dates, Mint",199,249,125,160,175,225,205,"a tropical rendezvous where the zing of fresh pineapple meets the cool breeze of mint, creating a refreshing symphony"
+,Papaya smoothie (new),"Papaya, Dates, Banana",199,249,110,149,149,199,197,"a velvety fusion of tropical sweetness, blending the creamy goodness of ripe papaya to create a sip of pure sunshine that refreshes and rejuvenates."
+Cold Pressed Juices,Orange juice,"Orange, Black salt",225,275,125,160,175,225,200,A tangy and refreshing citrus delight that brings the vibrant taste of oranges in every sip
+,Mixed fruit juice (new),"Apple, Pineapple, Pomegranate, Orange, Beetroot",225,275,149,199,175,225,268,"Indulge in the deliciousness of mixed fruit juice, a vibrant blend of succulent flavors that create a refreshing and irresistible thirst-quencher."
+,Pineapple juice,Pineapple,199,249,125,160,149,199,191,"a tropical escape in a glass, where the sun-kissed sweetness of ripe pineapples bursts forth, delivering a refreshing and pure taste of paradise with every sip"
+,Apple juice,Apple ,199,249,125,160,149,199,234,"Refreshing and naturally sweet, apple juice is a delightful beverage made from the cold pressed juice of ripe apples"
+,Anaar juice (new),Pomegranate,299,349,175,225,199,249,309,"a burst of ruby-red delight, where the tangy and sweet notes of pomegranate converge, creating a vibrant and invigorating elixir that tantalizes your taste buds"
+Hot beverage (Highlight),Adrak elaichi chai,"Ginger, Elaichi, Low-fat milk. Tea. Jaggery",110,,49,,110,,105,"A comforting blend that combines the zing of ginger and the fragrance of cardamom, creating a soothing and flavorful tea experience"
+,Masala chai,"Green cardamom, Black cardamom, Clove, Rose petals, Black pepper, Saunth, Mulethi, Fennel, Low-fat milk. Tea. Jaggery",110,,49,,110,,101,"A spiced symphony of black tea infused with aromatic spices, delivering a rich and flavorful experience that warms the senses with every comforting sip"
+,Black Americano (New),Coffee,125,,49,,110,,0,"bold and straightforward coffee experience, where freshly brewed espresso meets hot water, resulting in a strong yet smooth cup that lets the rich coffee flavor take the spotlight"
+,Hot coffee,"Coffee, Low-fat milk, Jaggery",149,,75,,125,,175,"A steaming cup of pure comfort, boasting the rich, robust flavors of freshly brewed beans to invigorate and delight your senses with every sip"
+,Kesar turmeric latte (new) -> Kesar haldi bliss ,"Turmeric, Rose petal, Almond, Cashew, Pista, Saffron, Magaj, Poppy seed, Turmeric, Elaichi, Low-fat milk, Honey",175,,125,,149,,262,"A golden elixir blending the warmth of turmeric with the richness of saffron, creating a soothing and flavorful latte that not only delights the senses but also infuses a touch of wellness into each comforting sip"
+,Hot chocolate,"Dark Chocolate, Cocoa, Low-fat milk, Honey, Cinnamon",199,,125,,149,,431,"A decadent indulgence that wraps you in warmth, featuring velvety cocoa goodness and a hint of sweetness, creating a rich and comforting treat for the soul in every creamy sip"
+Food (Fruit bowls) - Highlight,Custom fruit bowl,"Guava, Papaya, Banana, Pineapple, Orange, Apple - maximum 6 fruits, 350 gm total",199,,99,,199,,171,"Custom Fruit Bowl: A vibrant medley of your favorite fruits, meticulously curated to create a personalized explosion of colors and flavors, offering a refreshing and wholesome bowl tailored to your taste preferences."
+,Tropical fruit bowl,"Guava, Pineapple, Orange, Apple, Papaya, Mango , Mint, Almonds, Walnut, Peanut, Pomegranate, with Curd marination",199,,125,,199,,362,"Indulge in the goodness of a Paneer Tikka Millet Sandwich, blending the rich flavors of spiced paneer with the nutritional benefits of millet bread, offering a tasty yet wholesome bite packed with fiber, vitamins, and a satisfying crunch"
+Exclusive / Basil special,Herbal Tea (new) -> Detox Tea,"Elaichi, Sauf moti, Cinnamon, Black pepper, Jaggery, Lemon, Basil, Ginger",125,,49,,125,,9,"Indulge in the soothing blend of Herbal Harmony Tea, a delightful infusion that combines fragrant spices and natural sweetness for a comforting and revitalizing experience"
+,Vit C detox,"Orange, Amla, Pineapple, Mint, Honey, Lemon, Cinnamon, Ginger",175,225,125,160,149,199,140,"Energize your day with our invigorating Vit-C Detox blend, delivering a burst of essential Vitamin C to support your immune system and overall well-being, all in one delightful sip"
+,Skin secret,"Apple, Lemon Juice, Blueberry, Strawberry, Beetroot, Guava, Banana, Amla, Orange, Turmeric, Pineapple, Almonds, Honey",175,225,125,160,175,225,147,"Indulge in our Skin Secret Drink, a luscious fusion of vibrant fruits, nourishing nuts, and natural sweetness. Packed with essential nutrients, this refreshing elixir promotes radiant skin and overall well-being for a delightful and nutritious treat"
+,Diabetic special,"Blue Berry. Guava, Pineapple, Black salt, Lemon, Orange",175,225,125,160,175,225,65,"thoughtfully balanced blend crafted to promote well-being. Filled with antioxidant-rich fruits, digestive aids, and vitamin-packed citrus, this refreshing concoction is designed to cater to health-conscious choices while delivering a burst of natural goodness"
+,Gymers special,"Banana, Peanut butter, Cocoa, Dates, Whey protein",275,299,175,225,199,249,477,"Fuel your workout with our Gymmer's Special Drink – a tasty blend that gives you sustained energy, helps with muscle recovery, and adds a touch of natural sweetness to your fitness routine"
+Food (Sandwich) - Highlight,Paneer tikka sandwich (new) -> Paneer Tikka Millet Sandwich,"Millet bread, Paneer, lettuce, Olive oil, tomato, Hung curd, green chilli, garlic, ginger, onion, bell pepper",225,,175,,199,,176,"Indulge in the goodness of a Paneer Tikka Millet Sandwich, blending the rich flavors of spiced paneer with the nutritional benefits of millet bread, offering a tasty yet wholesome bite packed with fiber, vitamins, and a satisfying crunch"
+Add ons,Chia seeds,,20,,20,,20,,,
+,Oats,,20,,20,,20,,,
+,Almonds,,20,,20,,20,,,
+,Walnuts,,30,,30,,30,,,
+,Peanut butter,,30,,30,,30,,,
+,"Whey protein -> Whey protein (Muscle blaze), 15 gm",,50,,50,,50,,,
+Vegan Base ,Coconut water ,,50,75,50,75,50,75,,
+,Almond Milk,,99,125,99,125,99,125,,
+,,,,,,,,,,
+,,,,,,,,,,
+Pamphlet additional content -> Snacks and Cookies,,,Price,,Price,,Price,,,
+1,Milk kaju biscuit -> Kaju jaggery Biscuit,,40,,30,,30,,,
+2,BOT cookies -> Basil BOT cookies,,59,99,59,99,59,99,,
+3,Protein Mix -> Guilt free snack ,"Peanut, Chana, oats, Onion, garlic, jaggery powder, green chilli, curry patta, lemon, Chaat masala. garlic powder, deghi mirch, cummin powder, turmeric powder, aamchur, black salt, sea salt",99,,75,,99,,,
+4,Fruit bowl - single fruit offering -> Single fruit bowl ,"Guava, Papaya, Banana, Pineapple, Orange, Apple - choose any one, 350 gm",175,,99,,175,,,

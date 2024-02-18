@@ -1,0 +1,34 @@
+Menu 
+
+Mint Lemonade:
+
+Description: A refreshing mint with a hint of lemon and a touch of cumin with a drizzle of organic honey.
+Mall Final Pricing: 99 for 300 ml, 149 for 500 ml.
+University Final Pricing: 75 for 300 ml, 99 for 500 ml.
+Office Final Pricing: 99 for 300 ml, 149 for 500 ml.
+Calorie (Kcal): 120.
+Zomato Description: A refreshing blend of mint and lemon with a touch of cumin and organic honey.
+
+Lemon Ice Tea:
+Description: A zesty and cooling infusion of lemon in classic iced tea for a refreshing and tangy beverage.
+Mall Final Pricing: 99 for 300 ml, 149 for 500 ml.
+University Final Pricing: 75 for 300 ml, 99 for 500 ml.
+Office Final Pricing: 99 for 300 ml, 149 for 500 ml.
+Calorie (Kcal): 125.
+Zomato Description: A tangy and refreshing iced tea with the zing of lemon and the coolness of mint.
+
+Pineapple Mojito:
+Description: Tangy and zesty healthier mojito with a combination of fresh pineapple, lemon, mint, organic honey without the use of soda.
+Mall Final Pricing: 149 for 300 ml, 199 for 500 ml.
+University Final Pricing: 75 for 300 ml, 110 for 500 ml.
+Office Final Pricing: 125 for 300 ml, 175 for 500 ml.
+Calorie (Kcal): 170.
+Zomato Description: A tropical twist on the classic mojito, featuring fresh pineapple, mint, and organic honey.
+
+Fresh Coconut Water:
+Description: Naturally hydrating and refreshing beverage extracted from young green coconuts, known for its crisp taste and abundant electrolytes.
+Mall Final Pricing: 149.
+University Final Pricing: 75.
+Office Final Pricing: 99.
+Calorie (Kcal): 40.
+Zomato Description: Pure and natural coconut water for a refreshing and hydrating experience.
